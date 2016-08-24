@@ -1,0 +1,11 @@
+*.meta
+Library/
+ProjectSettings/
+Temp/
+Assets/Editor/
+Assets/Standard Assets/
+Assets/UnityVS
+*.sln
+AMaze.CSharp.Plugins.csproj
+*.csproj
+.vs/AMaze/v14/.suo
